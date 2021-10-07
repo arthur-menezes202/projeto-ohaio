@@ -2,11 +2,16 @@
     {
       "simbolo": "あ",
       "romaji": "a",
-      "imagem": "a.png"
+      "imagem": "hiragana-a.png"
     },
     {
       "simbolo": "い",
       "romaji": "i",
-      "imagem": "i.png"
+      "imagem": "hiragana-i.png"
+    },
+    {
+      "simbolo": "う",
+      "romaji": "u",
+      "imagem": "hiragana-u.png"
     }
 ]

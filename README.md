@@ -27,3 +27,4 @@ A estruturação é bem simples:
 ]
 ```
 É composto por três campos, contem o simbolo, romaji(tradução), e por fim a imagem que ira aparecer, esta é a ideia inicial, esta sujeito a alterações.
+As imagens inicialmente iram ficar em uma pasta, mas pretendo utilizar uma api para o mesmo.
