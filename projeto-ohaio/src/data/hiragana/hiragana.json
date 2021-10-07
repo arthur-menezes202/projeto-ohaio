@@ -1,12 +1,12 @@
 [
     {
       "simbolo": "あ",
-      "silaba": "a",
+      "romaji": "a",
       "imagem": "a.png"
     },
     {
-      "simbolo": "あ",
-      "silaba": "a",
-      "imagem": "a.png"
+      "simbolo": "い",
+      "romaji": "i",
+      "imagem": "i.png"
     }
-  ]
+]
