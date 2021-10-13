@@ -1,17 +1,279 @@
 [
     {
+      "id": 1,
       "simbolo": "あ",
       "romaji": "a",
       "imagem": "hiragana-a.png"
     },
     {
+      "id": 2,
       "simbolo": "い",
       "romaji": "i",
       "imagem": "hiragana-i.png"
     },
     {
+      "id": 3,
       "simbolo": "う",
       "romaji": "u",
       "imagem": "hiragana-u.png"
+    },
+    {
+      "id": 4,
+      "simbolo": "え",
+      "romaji": "e",
+      "imagem": "hiragana-e.png"
+    },
+    {
+      "id": 5,
+      "simbolo": "お",
+      "romaji": "o",
+      "imagem": "hiragana-o.png"
+    },
+    {
+      "id": 6,
+      "simbolo": "か",
+      "romaji": "ka",
+      "imagem": "hiragana-ka.png"
+    },
+    {
+      "id": 7,
+      "simbolo": "き",
+      "romaji": "ki",
+      "imagem": "hiragana-ki.png"
+    },
+    {
+      "id": 8,
+      "simbolo": "く",
+      "romaji": "ku",
+      "imagem": "hiragana-ku.png"
+    },
+    {
+      "id": 9,
+      "simbolo": "",
+      "romaji": "",
+      "imagem": "hiragana-.png"
+    },
+    {
+      "id": 10,
+      "simbolo": "",
+      "romaji": "",
+      "imagem": "hiragana-.png"
+    },
+    {
+      "id": 11,
+      "simbolo": "",
+      "romaji": "",
+      "imagem": "hiragana-.png"
+    },
+    {
+      "id": 12,
+      "simbolo": "",
+      "romaji": "",
+      "imagem": "hiragana-.png"
+    },
+    {
+      "id": 13,
+      "simbolo": "",
+      "romaji": "",
+      "imagem": "hiragana-.png"
+    },
+    {
+      "id": 14,
+      "simbolo": "",
+      "romaji": "",
+      "imagem": "hiragana-.png"
+    },
+    {
+      "id": 15,
+      "simbolo": "",
+      "romaji": "",
+      "imagem": "hiragana-.png"
+    },
+    {
+      "id": 16,
+      "simbolo": "",
+      "romaji": "",
+      "imagem": "hiragana-.png"
+    },
+    {
+      "id": 17,
+      "simbolo": "",
+      "romaji": "",
+      "imagem": "hiragana-.png"
+    },
+    {
+      "id": 18,
+      "simbolo": "",
+      "romaji": "",
+      "imagem": "hiragana-.png"
+    },
+    {
+      "id": 19,
+      "simbolo": "",
+      "romaji": "",
+      "imagem": "hiragana-.png"
+    },
+    {
+      "id": 20,
+      "simbolo": "",
+      "romaji": "",
+      "imagem": "hiragana-.png"
+    },
+    {
+      "id": 21,
+      "simbolo": "",
+      "romaji": "",
+      "imagem": "hiragana-.png"
+    },
+    {
+      "id": 22,
+      "simbolo": "",
+      "romaji": "",
+      "imagem": "hiragana-.png"
+    },
+    {
+      "id": 23,
+      "simbolo": "",
+      "romaji": "",
+      "imagem": "hiragana-.png"
+    },
+    {
+      "id": 24,
+      "simbolo": "",
+      "romaji": "",
+      "imagem": "hiragana-.png"
+    },
+    {
+      "id": 25,
+      "simbolo": "",
+      "romaji": "",
+      "imagem": "hiragana-.png"
+    },
+    {
+      "id": 26,
+      "simbolo": "",
+      "romaji": "",
+      "imagem": "hiragana-.png"
+    },
+    {
+      "id": 27,
+      "simbolo": "",
+      "romaji": "",
+      "imagem": "hiragana-.png"
+    },
+    {
+      "id": 28,
+      "simbolo": "",
+      "romaji": "",
+      "imagem": "hiragana-.png"
+    },
+    {
+      "id": 29,
+      "simbolo": "",
+      "romaji": "",
+      "imagem": "hiragana-.png"
+    },
+    {
+      "id": 30,
+      "simbolo": "",
+      "romaji": "",
+      "imagem": "hiragana-.png"
+    },
+    {
+      "id": 31,
+      "simbolo": "",
+      "romaji": "",
+      "imagem": "hiragana-.png"
+    },
+    {
+      "id": 32,
+      "simbolo": "",
+      "romaji": "",
+      "imagem": "hiragana-.png"
+    },
+    {
+      "id": 33,
+      "simbolo": "",
+      "romaji": "",
+      "imagem": "hiragana-.png"
+    },
+    {
+      "id": 34,
+      "simbolo": "",
+      "romaji": "",
+      "imagem": "hiragana-.png"
+    },
+    {
+      "id": 35,
+      "simbolo": "",
+      "romaji": "",
+      "imagem": "hiragana-.png"
+    },
+    {
+      "id": 36,
+      "simbolo": "",
+      "romaji": "",
+      "imagem": "hiragana-.png"
+    },
+    {
+      "id": 37,
+      "simbolo": "",
+      "romaji": "",
+      "imagem": "hiragana-.png"
+    },
+    {
+      "id": 38,
+      "simbolo": "",
+      "romaji": "",
+      "imagem": "hiragana-.png"
+    },
+    {
+      "id": 39,
+      "simbolo": "",
+      "romaji": "",
+      "imagem": "hiragana-.png"
+    },
+    {
+      "id": 40,
+      "simbolo": "",
+      "romaji": "",
+      "imagem": "hiragana-.png"
+    },
+    {
+      "id": 41,
+      "simbolo": "",
+      "romaji": "",
+      "imagem": "hiragana-.png"
+    },
+    {
+      "id": 42,
+      "simbolo": "",
+      "romaji": "",
+      "imagem": "hiragana-.png"
+    },
+    {
+      "id": 43,
+      "simbolo": "",
+      "romaji": "",
+      "imagem": "hiragana-.png"
+    },
+    {
+      "id": 44,
+      "simbolo": "",
+      "romaji": "",
+      "imagem": "hiragana-.png"
+    },
+    {
+      "id": 45,
+      "simbolo": "",
+      "romaji": "",
+      "imagem": "hiragana-.png"
+    },
+    {
+      "id": 46,
+      "simbolo": "",
+      "romaji": "",
+      "imagem": "hiragana-.png"
     }
+    
 ]
