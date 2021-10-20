@@ -1,12 +1,279 @@
 [
     {
+      "id": 1,
       "simbolo": "あ",
-      "silaba": "a",
-      "imagem": "a.png"
+      "romaji": "a",
+      "imagem": "hiragana-a.png"
     },
     {
-      "simbolo": "あ",
-      "silaba": "a",
-      "imagem": "a.png"
+      "id": 2,
+      "simbolo": "い",
+      "romaji": "i",
+      "imagem": "hiragana-i.png"
+    },
+    {
+      "id": 3,
+      "simbolo": "う",
+      "romaji": "u",
+      "imagem": "hiragana-u.png"
+    },
+    {
+      "id": 4,
+      "simbolo": "え",
+      "romaji": "e",
+      "imagem": "hiragana-e.png"
+    },
+    {
+      "id": 5,
+      "simbolo": "お",
+      "romaji": "o",
+      "imagem": "hiragana-o.png"
+    },
+    {
+      "id": 6,
+      "simbolo": "か",
+      "romaji": "ka",
+      "imagem": "hiragana-ka.png"
+    },
+    {
+      "id": 7,
+      "simbolo": "き",
+      "romaji": "ki",
+      "imagem": "hiragana-ki.png"
+    },
+    {
+      "id": 8,
+      "simbolo": "く",
+      "romaji": "ku",
+      "imagem": "hiragana-ku.png"
+    },
+    {
+      "id": 9,
+      "simbolo": "け",
+      "romaji": "ke",
+      "imagem": "hiragana-ke.png"
+    },
+    {
+      "id": 10,
+      "simbolo": "こ",
+      "romaji": "ko",
+      "imagem": "hiragana-ko.png"
+    },
+    {
+      "id": 11,
+      "simbolo": "さ",
+      "romaji": "sa",
+      "imagem": "hiragana-sa.png"
+    },
+    {
+      "id": 12,
+      "simbolo": "し",
+      "romaji": "shi",
+      "imagem": "hiragana-shi.png"
+    },
+    {
+      "id": 13,
+      "simbolo": "す",
+      "romaji": "su",
+      "imagem": "hiragana-su.png"
+    },
+    {
+      "id": 14,
+      "simbolo": "せ",
+      "romaji": "se",
+      "imagem": "hiragana-se.png"
+    },
+    {
+      "id": 15,
+      "simbolo": "そ",
+      "romaji": "so",
+      "imagem": "hiragana-so.png"
+    },
+    {
+      "id": 16,
+      "simbolo": "た",
+      "romaji": "ta",
+      "imagem": "hiragana-ta.png"
+    },
+    {
+      "id": 17,
+      "simbolo": "ち",
+      "romaji": "chi",
+      "imagem": "hiragana-chi.png"
+    },
+    {
+      "id": 18,
+      "simbolo": "つ",
+      "romaji": "tsu",
+      "imagem": "hiragana-tsu.png"
+    },
+    {
+      "id": 19,
+      "simbolo": "て",
+      "romaji": "te",
+      "imagem": "hiragana-te.png"
+    },
+    {
+      "id": 20,
+      "simbolo": "と",
+      "romaji": "to",
+      "imagem": "hiragana-to.png"
+    },
+    {
+      "id": 21,
+      "simbolo": "な",
+      "romaji": "na",
+      "imagem": "hiragana-na.png"
+    },
+    {
+      "id": 22,
+      "simbolo": "に",
+      "romaji": "ni",
+      "imagem": "hiragana-ni.png"
+    },
+    {
+      "id": 23,
+      "simbolo": "ぬ",
+      "romaji": "nu",
+      "imagem": "hiragana-nu.png"
+    },
+    {
+      "id": 24,
+      "simbolo": "ね",
+      "romaji": "ne",
+      "imagem": "hiragana-ne.png"
+    },
+    {
+      "id": 25,
+      "simbolo": "の",
+      "romaji": "no",
+      "imagem": "hiragana-no.png"
+    },
+    {
+      "id": 26,
+      "simbolo": "は",
+      "romaji": "ha",
+      "imagem": "hiragana-ha.png"
+    },
+    {
+      "id": 27,
+      "simbolo": "ひ",
+      "romaji": "hi",
+      "imagem": "hiragana-hi.png"
+    },
+    {
+      "id": 28,
+      "simbolo": "ふ",
+      "romaji": "fu",
+      "imagem": "hiragana-fu.png"
+    },
+    {
+      "id": 29,
+      "simbolo": "へ",
+      "romaji": "he",
+      "imagem": "hiragana-he.png"
+    },
+    {
+      "id": 30,
+      "simbolo": "ほ",
+      "romaji": "ho",
+      "imagem": "hiragana-ho.png"
+    },
+    {
+      "id": 31,
+      "simbolo": "ま",
+      "romaji": "ma",
+      "imagem": "hiragana-ma.png"
+    },
+    {
+      "id": 32,
+      "simbolo": "み",
+      "romaji": "mi",
+      "imagem": "hiragana-mi.png"
+    },
+    {
+      "id": 33,
+      "simbolo": "む",
+      "romaji": "mu",
+      "imagem": "hiragana-mu.png"
+    },
+    {
+      "id": 34,
+      "simbolo": "め",
+      "romaji": "me",
+      "imagem": "hiragana-me.png"
+    },
+    {
+      "id": 35,
+      "simbolo": "も",
+      "romaji": "mo",
+      "imagem": "hiragana-mo.png"
+    },
+    {
+      "id": 36,
+      "simbolo": "や",
+      "romaji": "ya",
+      "imagem": "hiragana-ya.png"
+    },
+    {
+      "id": 37,
+      "simbolo": "ゆ",
+      "romaji": "yu",
+      "imagem": "hiragana-yu.png"
+    },
+    {
+      "id": 38,
+      "simbolo": "よ",
+      "romaji": "yo",
+      "imagem": "hiragana-yo.png"
+    },
+    {
+      "id": 39,
+      "simbolo": "ら",
+      "romaji": "ra",
+      "imagem": "hiragana-ra.png"
+    },
+    {
+      "id": 40,
+      "simbolo": "り",
+      "romaji": "ri",
+      "imagem": "hiragana-ri.png"
+    },
+    {
+      "id": 41,
+      "simbolo": "る",
+      "romaji": "ru",
+      "imagem": "hiragana-ru.png"
+    },
+    {
+      "id": 42,
+      "simbolo": "れ",
+      "romaji": "re",
+      "imagem": "hiragana-re.png"
+    },
+    {
+      "id": 43,
+      "simbolo": "ろ",
+      "romaji": "ro",
+      "imagem": "hiragana-ro.png"
+    },
+    {
+      "id": 44,
+      "simbolo": "わ",
+      "romaji": "wa",
+      "imagem": "hiragana-wa.png"
+    },
+    {
+      "id": 45,
+      "simbolo": "を",
+      "romaji": "wo",
+      "imagem": "hiragana-wo.png"
+    },
+    {
+      "id": 46,
+      "simbolo": "ん",
+      "romaji": "n",
+      "imagem": "hiragana-n.png"
     }
-  ]
+    
+]
